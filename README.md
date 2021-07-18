@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am a Medical Student with keen interest in Technology, probably More than Medicine.
+I learned a little bit of everything...
+
+- 📸Adobe Photoshop, Adobe Illustrator, Adobe Indesign and Canva For Designing
+- 📹Filmora for Video Editing
+- 👩‍💻Python, python bots in telegram
+- ⚡Cloudflare Workers
+- 👀Windows and Android Related Apps and OS
+- 🏴‍☠️A Pirate too :)
